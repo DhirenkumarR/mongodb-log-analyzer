@@ -1,0 +1,3 @@
+/node_modules
+MONGODB.log
+slow_queries.csv
