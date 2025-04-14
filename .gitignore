@@ -1,3 +1,4 @@
 /node_modules
 MONGODB.log
 slow_queries.csv
+package-lock.json
